@@ -24,4 +24,6 @@ yarn tauri dev
 ```
 
 - Build
-`yarn tauri build`
+```
+yarn tauri build
+```
