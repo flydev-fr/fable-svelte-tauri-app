@@ -17,7 +17,11 @@ dotnet new fable
 
 # Getting Started
 
-`yarn`
+- Development 
+```
+yarn
+yarn tauri dev
+```
 
-`yarn tauri dev` or `yarn tauri build`
-
+- Build
+`yarn tauri build`
